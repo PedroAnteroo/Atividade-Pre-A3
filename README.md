@@ -5,3 +5,4 @@ Apenas o arquivo "Atividade Pre A3" e "oficicina-spring-boot" Fazem parte do tra
 Tech Lead: Pedro Antero
 Analista de Dados: Gustavo Fernandes
 Responsável pela documentação: João Vitor, Saulo Inácio
+(mudar o modo do readme de prevew para code)
